@@ -1,0 +1,6 @@
+Banner Banner.qml
+QmlLogger	QmlLogger.qml
+Results	Results.qml
+ProgressBar ProgressBar.qml
+Status Status.qml
+Separator Separator.qml
